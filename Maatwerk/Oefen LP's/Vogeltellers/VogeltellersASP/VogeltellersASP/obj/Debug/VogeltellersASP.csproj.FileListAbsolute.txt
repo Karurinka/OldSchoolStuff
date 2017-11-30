@@ -1,0 +1,200 @@
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\ApplicationInsights.config
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\csc.exe
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\csc.exe.config
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\csc.rsp
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\csi.exe
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\csi.rsp
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\System.AppContext.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\System.Collections.Immutable.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\System.IO.FileSystem.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\vbc.exe
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\vbc.exe.config
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\vbc.rsp
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\VBCSCompiler.exe
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\roslyn\VBCSCompiler.exe.config
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\VogeltellersASP.dll.config
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\VogeltellersASP.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\VogeltellersASP.pdb
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\Antlr3.Runtime.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.Web.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.WindowsServer.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\Microsoft.ApplicationInsights.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\Microsoft.Web.Infrastructure.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\Newtonsoft.Json.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\System.Web.Helpers.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\System.Web.Mvc.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\System.Web.Optimization.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\System.Web.Razor.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\System.Web.WebPages.Deployment.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\System.Web.WebPages.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\System.Web.WebPages.Razor.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\WebGrease.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\System.Web.Helpers.xml
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\System.Web.Mvc.xml
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\System.Web.Optimization.xml
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\System.Web.Razor.xml
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\System.Web.WebPages.xml
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\System.Web.WebPages.Deployment.xml
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\System.Web.WebPages.Razor.xml
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\Antlr3.Runtime.pdb
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\Newtonsoft.Json.xml
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\Microsoft.ApplicationInsights.xml
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.WindowsServer.xml
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.Web.xml
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\obj\Debug\VogeltellersASP.csprojResolveAssemblyReference.cache
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\obj\Debug\VogeltellersASP.dll
+c:\users\gebruiker\documents\visual studio 2017\Projects\VogeltellersASP\VogeltellersASP\obj\Debug\VogeltellersASP.pdb
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\ApplicationInsights.config
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\csc.exe
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\csc.exe.config
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\csc.rsp
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\csi.exe
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\csi.rsp
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\System.AppContext.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\vbc.exe
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\vbc.exe.config
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\vbc.rsp
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\VogeltellersASP.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\VogeltellersASP.pdb
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Antlr3.Runtime.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.Web.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Newtonsoft.Json.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.Helpers.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.Mvc.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.Optimization.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.Razor.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.WebPages.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.WebPages.Razor.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\WebGrease.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.Helpers.xml
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.Mvc.xml
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.Optimization.xml
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.Razor.xml
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.WebPages.xml
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.WebPages.Razor.xml
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Antlr3.Runtime.pdb
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Newtonsoft.Json.xml
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.ApplicationInsights.xml
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.Web.xml
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\obj\Debug\VogeltellersASP.csprojResolveAssemblyReference.cache
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\obj\Debug\VogeltellersASP.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\obj\Debug\VogeltellersASP.pdb
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\ApplicationInsights.config
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\csc.exe
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\csc.exe.config
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\csc.rsp
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\csi.exe
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\csi.rsp
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\System.AppContext.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\vbc.exe
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\vbc.exe.config
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\vbc.rsp
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\VogeltellersASP.dll.config
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\VogeltellersASP.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\VogeltellersASP.pdb
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Antlr3.Runtime.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.Web.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Newtonsoft.Json.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.Helpers.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.Mvc.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.Optimization.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.Razor.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.WebPages.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\WebGrease.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.Helpers.xml
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.Mvc.xml
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.Optimization.xml
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.Razor.xml
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.WebPages.xml
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Antlr3.Runtime.pdb
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Newtonsoft.Json.xml
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\bin\Microsoft.AI.Web.xml
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\obj\Debug\VogeltellersASP.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\obj\Debug\VogeltellersASP.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\Oefen LP's\Vogeltellers\VogeltellersASP\VogeltellersASP\obj\Debug\VogeltellersASP.pdb

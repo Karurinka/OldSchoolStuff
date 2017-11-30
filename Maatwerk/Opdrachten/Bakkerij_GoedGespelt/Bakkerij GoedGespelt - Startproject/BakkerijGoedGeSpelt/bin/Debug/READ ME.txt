@@ -1,0 +1,7 @@
+Enkele studenten hebben vastgesteld dat ze het BroodSoortenLijst.bin niet kunnen inlezen zodat een Brood toch de eigenschappen krijgt van in het bestand.
+
+Hoewel het de docent (Merel) nog niet duidelijk is wat het probleem exact is, hebben de studenten een nieuw BroodSoortenLijst-versie2.bin aangemaakt, die ze wel kunnen inlezen.
+
+Hopelijk binnenkort meer duidelijkheid.
+
+Merel Veracx, 23-9-2015

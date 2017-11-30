@@ -1,0 +1,13 @@
+Volgorde waardes in csv bestand:
+De eerste waarde is de naam en de tweede de afkorting van de vogelsoort. De twee waardes
+daarna geven de broedperiode aan van deze specifieke vogelsoort. Op het eind staat het
+aantal waarnemingen dat nodig is voor het identificeren van één broedpaar.
+
+Constraints voor de database:
+- Een teller moet minimaal 10 bezoeken hebben gebracht aan een gebied.
+- Er moet minstens een week tussen elk bezoek zitten.
+- Minimaal twee bezoeken moeten in de avonduren zijn geweest (tussen 18:00 en 06:00 uur).
+- Minimaal de helft van het aantal bezoeken moet in de ochtenduren zijn geweest (tussen 06:00 en 12:00 uur).
+
+Git:
+https://github.com/Karurinka/Vogeltellers

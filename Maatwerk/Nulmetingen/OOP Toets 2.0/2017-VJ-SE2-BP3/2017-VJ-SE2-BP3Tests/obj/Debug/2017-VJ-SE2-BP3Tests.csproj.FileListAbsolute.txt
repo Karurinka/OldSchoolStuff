@@ -1,0 +1,15 @@
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Nulmetingen\2017-VJ-SE2-BP3-Toets\2017-VJ-SE2-BP3\2017-VJ-SE2-BP3Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Nulmetingen\2017-VJ-SE2-BP3-Toets\2017-VJ-SE2-BP3\2017-VJ-SE2-BP3Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Nulmetingen\2017-VJ-SE2-BP3-Toets\2017-VJ-SE2-BP3\2017-VJ-SE2-BP3Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Nulmetingen\2017-VJ-SE2-BP3-Toets\2017-VJ-SE2-BP3\2017-VJ-SE2-BP3Tests\bin\Debug\2017-VJ-SE2-BP3Tests.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Nulmetingen\2017-VJ-SE2-BP3-Toets\2017-VJ-SE2-BP3\2017-VJ-SE2-BP3Tests\bin\Debug\2017-VJ-SE2-BP3Tests.pdb
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Nulmetingen\2017-VJ-SE2-BP3-Toets\2017-VJ-SE2-BP3\2017-VJ-SE2-BP3Tests\bin\Debug\2017-VJ-SE2-BP3.exe
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Nulmetingen\2017-VJ-SE2-BP3-Toets\2017-VJ-SE2-BP3\2017-VJ-SE2-BP3Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Nulmetingen\2017-VJ-SE2-BP3-Toets\2017-VJ-SE2-BP3\2017-VJ-SE2-BP3Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Nulmetingen\2017-VJ-SE2-BP3-Toets\2017-VJ-SE2-BP3\2017-VJ-SE2-BP3Tests\bin\Debug\2017-VJ-SE2-BP3.pdb
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Nulmetingen\2017-VJ-SE2-BP3-Toets\2017-VJ-SE2-BP3\2017-VJ-SE2-BP3Tests\bin\Debug\2017-VJ-SE2-BP3.exe.config
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Nulmetingen\2017-VJ-SE2-BP3-Toets\2017-VJ-SE2-BP3\2017-VJ-SE2-BP3Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Nulmetingen\2017-VJ-SE2-BP3-Toets\2017-VJ-SE2-BP3\2017-VJ-SE2-BP3Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Nulmetingen\2017-VJ-SE2-BP3-Toets\2017-VJ-SE2-BP3\2017-VJ-SE2-BP3Tests\obj\Debug\2017-VJ-SE2-BP3Tests.csprojResolveAssemblyReference.cache
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Nulmetingen\2017-VJ-SE2-BP3-Toets\2017-VJ-SE2-BP3\2017-VJ-SE2-BP3Tests\obj\Debug\2017-VJ-SE2-BP3Tests.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Nulmetingen\2017-VJ-SE2-BP3-Toets\2017-VJ-SE2-BP3\2017-VJ-SE2-BP3Tests\obj\Debug\2017-VJ-SE2-BP3Tests.pdb

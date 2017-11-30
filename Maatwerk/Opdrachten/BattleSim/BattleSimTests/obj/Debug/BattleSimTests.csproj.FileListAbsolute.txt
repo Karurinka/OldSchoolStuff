@@ -1,0 +1,8 @@
+C:\Users\Gebruiker\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSimTests\bin\Debug\BattleSimTests.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSimTests\bin\Debug\BattleSimTests.pdb
+C:\Users\Gebruiker\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSimTests\bin\Debug\BattleSim.exe
+C:\Users\Gebruiker\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSimTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSimTests\bin\Debug\BattleSim.pdb
+C:\Users\Gebruiker\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSimTests\obj\Debug\BattleSimTests.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSimTests\obj\Debug\BattleSimTests.dll
+C:\Users\Gebruiker\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSimTests\obj\Debug\BattleSimTests.pdb

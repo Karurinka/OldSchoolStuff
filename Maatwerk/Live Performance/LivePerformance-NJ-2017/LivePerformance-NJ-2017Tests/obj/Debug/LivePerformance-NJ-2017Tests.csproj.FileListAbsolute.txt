@@ -1,0 +1,15 @@
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017Tests\bin\Debug\LivePerformance-NJ-2017Tests.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017Tests\bin\Debug\LivePerformance-NJ-2017Tests.pdb
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017Tests\bin\Debug\LivePerformance-NJ-2017.exe
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017Tests\bin\Debug\LivePerformance-NJ-2017.pdb
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017Tests\bin\Debug\LivePerformance-NJ-2017.exe.config
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017Tests\obj\Debug\LivePerformance-NJ-2017Tests.csprojResolveAssemblyReference.cache
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017Tests\obj\Debug\LivePerformance-NJ-2017Tests.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017Tests\obj\Debug\LivePerformance-NJ-2017Tests.pdb

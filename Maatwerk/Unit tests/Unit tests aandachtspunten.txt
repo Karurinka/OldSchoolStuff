@@ -1,0 +1,25 @@
+Vorm:
+AAA: arrange, act, asseret
+Annotaties: 
+Test initialize: geen code duplicatie
+Test namen: 
+Wat test je en wat moet het resultaat zijn: 
+
+Inhoud:
+Leesbaar: (assert message)
+Happy path --> volledigheid
+Exception path --> volledigheid
+Test test wat er beloofd wordt
+Rijkdom van scenario's 
+
+Vorm:
+Geen arrange, act en assert, verder ook geen annotaties. verder staan de asserts niet allemaal bij elkaar,
+dus de volgorde van de AAA klopt niet.
+Geen gebruik gemaakt van testinitialize. De code die in de test staat gebruikt niet een eigen methode, maar er wordt
+in de test een methode geschreven.
+De namen van de tests zijn te algemeen, want er wordt getest op de knight die damage doet en de wizard die damage
+doet in een test en dit staat verder ook niet aangegeven met annotaties.
+
+
+
+INHOUD:

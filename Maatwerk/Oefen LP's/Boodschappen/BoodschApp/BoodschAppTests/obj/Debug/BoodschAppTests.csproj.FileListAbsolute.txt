@@ -1,0 +1,15 @@
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Boodschappen\BoodschApp\BoodschAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Boodschappen\BoodschApp\BoodschAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Boodschappen\BoodschApp\BoodschAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Boodschappen\BoodschApp\BoodschAppTests\bin\Debug\BoodschAppTests.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Boodschappen\BoodschApp\BoodschAppTests\bin\Debug\BoodschAppTests.pdb
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Boodschappen\BoodschApp\BoodschAppTests\bin\Debug\BoodschApp.exe
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Boodschappen\BoodschApp\BoodschAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Boodschappen\BoodschApp\BoodschAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Boodschappen\BoodschApp\BoodschAppTests\bin\Debug\BoodschApp.pdb
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Boodschappen\BoodschApp\BoodschAppTests\bin\Debug\BoodschApp.exe.config
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Boodschappen\BoodschApp\BoodschAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Boodschappen\BoodschApp\BoodschAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Boodschappen\BoodschApp\BoodschAppTests\obj\Debug\BoodschAppTests.csprojResolveAssemblyReference.cache
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Boodschappen\BoodschApp\BoodschAppTests\obj\Debug\BoodschAppTests.dll
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Oefen LP's\Boodschappen\BoodschApp\BoodschAppTests\obj\Debug\BoodschAppTests.pdb

@@ -1,0 +1,21 @@
+C:\Users\miche\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSim\bin\Debug\BattleSim.exe.config
+C:\Users\miche\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSim\bin\Debug\BattleSim.exe
+C:\Users\miche\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSim\bin\Debug\BattleSim.pdb
+C:\Users\miche\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSim\obj\Debug\BattleSim.csprojResolveAssemblyReference.cache
+C:\Users\miche\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSim\obj\Debug\BattleSim.Form1.resources
+C:\Users\miche\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSim\obj\Debug\BattleSim.Properties.Resources.resources
+C:\Users\miche\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSim\obj\Debug\BattleSim.csproj.GenerateResource.Cache
+C:\Users\miche\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSim\obj\Debug\BattleSim.exe
+C:\Users\miche\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSim\obj\Debug\BattleSim.pdb
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\BattleSim\BattleSim\bin\Debug\BattleSim.exe.config
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\BattleSim\BattleSim\obj\Debug\BattleSim.exe
+C:\Users\Gebruiker\Dropbox\Fontys\Maatwerk\BattleSim\BattleSim\obj\Debug\BattleSim.pdb
+C:\Users\Gebruiker\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSim\bin\Debug\BattleSim.exe.config
+C:\Users\Gebruiker\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSim\obj\Debug\BattleSim.exe
+C:\Users\Gebruiker\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSim\obj\Debug\BattleSim.pdb
+C:\Users\Gebruiker\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSim\bin\Debug\BattleSim.exe
+C:\Users\Gebruiker\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSim\bin\Debug\BattleSim.pdb
+C:\Users\Gebruiker\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSim\obj\Debug\BattleSim.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSim\obj\Debug\BattleSim.Form1.resources
+C:\Users\Gebruiker\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSim\obj\Debug\BattleSim.Properties.Resources.resources
+C:\Users\Gebruiker\Dropbox\Fontys\Semester 2.2\Live Performance\BattleSim\BattleSim\obj\Debug\BattleSim.csproj.GenerateResource.Cache

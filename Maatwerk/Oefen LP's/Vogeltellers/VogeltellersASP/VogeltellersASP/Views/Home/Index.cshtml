@@ -1,0 +1,36 @@
+﻿@using VogeltellersASP.Models.Data
+@using VogeltellersASP.Models.Logic
+@model List<Gebied>
+
+    @{
+    ViewBag.Title = "Welkom";
+    }
+
+    <h2>Gebieden</h2>
+    <p>Hieronder staat de lijst van gebieden</p>
+
+    <table class="table">
+
+        <tr>
+            <th>
+                Naam:
+            </th>
+        </tr>
+
+        @foreach(var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(ModelItem => item.Naam)
+            </td>
+        </tr>
+        }
+
+    </table>
+
+    <div>
+        Vandaag: @DateTime.Now.Day/@DateTime.Now.Month/@DateTime.Now.Year
+    </div>
+
+
+

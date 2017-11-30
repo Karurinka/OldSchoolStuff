@@ -1,0 +1,9 @@
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017\obj\Debug\LivePerformance-NJ-2017.csprojResolveAssemblyReference.cache
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017\obj\Debug\LivePerformance_NJ_2017.Properties.Resources.resources
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017\obj\Debug\LivePerformance-NJ-2017.csproj.GenerateResource.Cache
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017\bin\Debug\LivePerformance-NJ-2017.exe.config
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017\bin\Debug\LivePerformance-NJ-2017.exe
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017\bin\Debug\LivePerformance-NJ-2017.pdb
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017\obj\Debug\LivePerformance-NJ-2017.exe
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017\obj\Debug\LivePerformance-NJ-2017.pdb
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Live Performance\LivePerformance-NJ-2017\LivePerformance-NJ-2017\obj\Debug\LivePerformance_NJ_2017.lblCoalitie.resources

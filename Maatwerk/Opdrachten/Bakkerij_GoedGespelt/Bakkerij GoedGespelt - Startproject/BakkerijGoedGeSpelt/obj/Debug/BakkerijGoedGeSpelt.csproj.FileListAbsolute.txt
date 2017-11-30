@@ -1,0 +1,27 @@
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.exe.config
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.exe
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.pdb
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.bakkerijForm.resources
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.Properties.Resources.resources
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.csproj.GenerateResource.Cache
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.exe
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.pdb
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.csprojResolveAssemblyReference.cache
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files - start project\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.exe.config
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files - start project\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.exe
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files - start project\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.pdb
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files - start project\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.csprojResolveAssemblyReference.cache
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files - start project\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.bakkerijForm.resources
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files - start project\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.Properties.Resources.resources
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files - start project\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.csproj.GenerateResource.Cache
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files - start project\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.exe
+D:\__Vakken\2014-2015\Maatwerk S\Opdracht Files - start project\BakkerijGoedGeSpelt\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.pdb
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Opdrachten\Bakkerij_GoedGespelt\Bakkerij GoedGespelt - Startproject\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.exe.config
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Opdrachten\Bakkerij_GoedGespelt\Bakkerij GoedGespelt - Startproject\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.exe
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Opdrachten\Bakkerij_GoedGespelt\Bakkerij GoedGespelt - Startproject\BakkerijGoedGeSpelt\bin\Debug\BakkerijGoedGeSpelt.pdb
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Opdrachten\Bakkerij_GoedGespelt\Bakkerij GoedGespelt - Startproject\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.csprojResolveAssemblyReference.cache
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Opdrachten\Bakkerij_GoedGespelt\Bakkerij GoedGespelt - Startproject\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.bakkerijForm.resources
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Opdrachten\Bakkerij_GoedGespelt\Bakkerij GoedGespelt - Startproject\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.Properties.Resources.resources
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Opdrachten\Bakkerij_GoedGespelt\Bakkerij GoedGespelt - Startproject\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.csproj.GenerateResource.Cache
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Opdrachten\Bakkerij_GoedGespelt\Bakkerij GoedGespelt - Startproject\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.exe
+C:\Users\miche\Dropbox\Fontys\Maatwerk\Opdrachten\Bakkerij_GoedGespelt\Bakkerij GoedGespelt - Startproject\BakkerijGoedGeSpelt\obj\Debug\BakkerijGoedGeSpelt.pdb
